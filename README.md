@@ -24,7 +24,7 @@ The playbook is organized into the following plays:
 1. **Clone the Repository**: Clone or download this playbook to your local machine.
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Mohameed-Waeel/Ansible-Nexus-project.git
    ```
 
 2. **Configure Inventory**: Specify the target host in your Ansible inventory file (e.g., `/etc/ansible/hosts`).
@@ -84,3 +84,18 @@ After running the playbook, you should see debug messages confirming:
 - **Network Access**: Ensure that firewalls or security groups allow access to the Nexus port.
 
 ---
+
+# Result
+![70](https://github.com/user-attachments/assets/7ec7158a-4918-4c9d-9acf-aded29fa28f0)
+
+![60](https://github.com/user-attachments/assets/20a7424c-a38a-4d77-bc79-770d44dbdb5a)
+
+![10](https://github.com/user-attachments/assets/fddd8962-0351-4e29-9c30-37197d87fd95)
+
+![20](https://github.com/user-attachments/assets/d4e02b1e-fa97-4bbb-89ce-36a2e76ed6ed)
+
+![30](https://github.com/user-attachments/assets/650de792-ae28-4770-affc-6ef428551bb8)
+
+![40](https://github.com/user-attachments/assets/34a1c32d-1232-48f8-b709-04ad7b014205)
+
+![50](https://github.com/user-attachments/assets/09c7ae50-813c-4cb2-a37c-5ceb1cf5bce7)
