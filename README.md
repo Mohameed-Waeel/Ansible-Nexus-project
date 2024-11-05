@@ -2,6 +2,8 @@
 
 This Ansible playbook automates the process of downloading, installing, configuring, and starting Sonatype Nexus on a target server. It includes tasks for installing dependencies, downloading the Nexus installer, creating required directories, managing user permissions, and verifying that Nexus is running.
 
+![photo](https://github.com/user-attachments/assets/13cdaadd-8467-4c69-bbb8-25113a814b56)
+
 ## Prerequisites
 
 - **Ansible**: Ensure Ansible is installed on the control node.
